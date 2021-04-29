@@ -1,0 +1,24 @@
+{
+  "name": "sleepy-detector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dauto98/Sleepy-detector.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dauto98/Sleepy-detector/issues"
+  },
+  "homepage": "https://github.com/Dauto98/Sleepy-detector#readme",
+  "dependencies": {
+    "audio-loader": "^1.0.3",
+    "audio-play": "^2.3.1",
+    "desktop-idle": "^1.3.0"
+  }
+}
